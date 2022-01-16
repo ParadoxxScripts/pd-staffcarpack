@@ -1,7 +1,7 @@
 Heyy, this is my first car pack, so it isn't like normal car pack :(((
 
 Version: 
-  '0.0.2'
+  '0.0.3'
   
 Author: 
   'ParadoxDevelopment'
@@ -17,3 +17,4 @@ Notes:
 
 Devlog:
 Added pd_stafftah
+Added pd_gwagon
